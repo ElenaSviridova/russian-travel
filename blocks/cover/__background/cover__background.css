@@ -1,0 +1,21 @@
+.cover__background {
+    background-image: url(/images/cover-trains.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    margin: 0 auto;
+    max-width: 1184px;
+    height: 740px;
+}
+
+@media all and (max-width: 768px) {
+    .cover__background {
+        height: 480px;
+    }
+}
+
+@media all and (max-width: 320px) {
+    .cover__background {
+        height: 200px;
+    }
+}

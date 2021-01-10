@@ -1,0 +1,9 @@
+.place__paragraph_begin {
+    margin: 0 0 26px;
+}
+
+@media all and (max-width: 768px) {
+    .place__paragraph_begin {
+        margin: 0 0 25px;
+    }
+}    
