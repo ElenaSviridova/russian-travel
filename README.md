@@ -12,7 +12,7 @@
 
 **Функциональность**
 Исподьзуется: CSS, HTML.
-* [Ссылка на проект в GitHub Pages]()
+* [Ссылка на проект в GitHub Pages](https://elenasviridova.github.io/russian-travel/)
 
 **Ссылки**
 1. Куршская коса:
