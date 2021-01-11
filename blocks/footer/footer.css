@@ -23,7 +23,7 @@
 @media all and (max-width: 320px) {
     .footer {
       display: block;
-      margin-top: 64px; 
+      margin-top: 64px;
       padding-top: 0;
     }
 }
