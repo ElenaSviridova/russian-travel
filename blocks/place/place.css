@@ -20,7 +20,6 @@
    
    @media all and (max-width: 950px) {
        .place {
-           margin: 5.5em 0 0;
            column-gap: 28px;
            grid-template-columns: repeat(2, minmax(min-content, 340px));
            margin: 88px 0 0;

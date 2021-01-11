@@ -74,16 +74,15 @@
 
 @import url(../blocks/footer/__author/footer__author.css);
 
+@font-face {
+  font-family: 'Inter', 'Arial', 'Helvetica', sans-serif; 
+  src: url(./vendors/fonts/Inter-Regular.otf); 
+  font-weight: normal;
+} 
 
 @font-face {
-    font-family: 'Inter', 'Arial', 'Helvetica', sans-serif; 
-    src: url(./vendors/fonts/Inter-Regular.otf); 
-    font-weight: normal;
-   } 
-
-@font-face {
-    font-family: 'Inter','Arial', 'Helvetica', sans-serif;
-    src: url(./vendors/fonts/Inter-Bold.otf);
-    font-weight: bold;
-   }
+  font-family: 'Inter','Arial', 'Helvetica', sans-serif;
+  src: url(./vendors/fonts/Inter-Bold.otf);
+  font-weight: bold;
+}
    
