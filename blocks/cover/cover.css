@@ -1,21 +1,17 @@
 .cover {
-    margin: 0 auto;
+    width: 100%;
+    margin: 92px auto;
 }
 
-@media all and (max-width: 1024px) {
-    .cover {
-      margin: 92px 0 0;  
-    }
-}    
 
 @media all and (max-width: 768px) {
     .cover {
-        margin: 90px 0 0;
+        margin: 90px auto 88px;
     }
 }
 
-@media all and (max-width: 320px) {
+@media all and (max-width: 600px) {
     .cover {
-        margin: 66px 0 0;
+        margin: 66px auto 64px;
     }
 }

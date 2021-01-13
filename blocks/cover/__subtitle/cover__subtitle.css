@@ -2,7 +2,7 @@
     margin: 32px auto 0;
     color: white;
     max-width: 360px;
-    font-family: 'Inter';
+    font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
     font-weight: normal;
     font-size: 18px;
     line-height: 122%;
