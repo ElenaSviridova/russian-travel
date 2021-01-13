@@ -8,6 +8,7 @@
     text-decoration: none;
     background: linear-gradient( rgba(42,44,47,0.3), rgba(42,44,47,0.3)), url('../../../images/cover-trains.jpg');
     background-size: cover;
+    background-position: center;
     background-repeat: no-repeat;
     min-height: 740px;
 }
